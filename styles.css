@@ -1,4 +1,17 @@
-
+html {
+  background-color: #496D96;
+}
 h1 {
   text-transform: uppercase;
+  color: black;
+  text-decoration: line-through;
+  font-family: courier;
+}
+h2 {
+  color: #C4AF88;
+  font-size: 27px;
+  text-decoration: underline;
+}
+p {
+  color: #723C3C;
 }
