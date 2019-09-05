@@ -6,12 +6,19 @@ h1 {
   color: black;
   text-decoration: line-through;
   font-family: courier;
+  text-align: center;
+  text-shadow: 2px 4px 2px #C4AF88;
 }
 h2 {
   color: #C4AF88;
   font-size: 27px;
   text-decoration: underline;
+  text-align: center;
+  letter-spacing: 20px;
 }
 p {
   color: #723C3C;
+  font-family: Arial;
+text-indent: 10px;
+word-spacing: 4px;
 }
